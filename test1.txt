@@ -1,4 +1,15 @@
 Hii jeeva
+<<<<<<< HEAD
 hi i am naveeth
 I am jeevanandan
 hello
+=======
+hiii   
+hi arthy
+hi team
+hi
+chennai
+delhi
+bhavani
+>>>>>>> abfb05c7323692392b70e7b23ba80817b99156cd
+jeeva
